@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/arguments.cxx
+sstream
+-
+vector
+-
+iostream
+-
+cstdlib
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/file_io.cxx
+cstdlib
+-
+iostream
+-
+sstream
+-
+fstream
+-
+string
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/stdint.h
+file_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/file_io.hxx
+boost/filesystem.hpp
+-
+boinc_db.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/boinc_db.h
+error_numbers.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/error_numbers.h
+backend_lib.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/backend_lib.h
+parse.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/parse.h
+util.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/util.h
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/file_io.hxx
+cstdlib
+-
+iostream
+-
+string
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/parse_xml.cxx
+iostream
+-
+string
+-
+vector
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/stdint.h
+vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/vector_io.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/vector_io.cxx
+vector
+-
+iostream
+-
+sstream
+-
+cstring
+-
+string
+-
+cstdlib
+-
+stdexcept
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/stdint.h
+vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/vector_io.hxx
+boost/algorithm/string.hpp
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/undvc_common/vector_io.hxx
+vector
+-
+iostream
+-
+sstream
+-
+cstring
+-
+

@@ -1,0 +1,180 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/./util/tao_random.hxx
+random
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/asynchronous_algorithms/individual.hxx
+iostream
+-
+vector
+-
+util/vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/asynchronous_algorithms/util/vector_io.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/arguments.cxx
+sstream
+-
+vector
+-
+iostream
+-
+cstdlib
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/hessian.cxx
+iostream
+-
+vector
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/stdint.h
+util/hessian.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/util/hessian.hxx
+util/matrix.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/util/matrix.hxx
+vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/vector_io.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/hessian.hxx
+vector
+-
+string
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/matrix.cxx
+cmath
+-
+sstream
+-
+string
+-
+iostream
+-
+vector
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/stdint.h
+matrix.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/matrix.hxx
+vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/vector_io.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/matrix.hxx
+vector
+-
+string
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/stdint.h
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/newton_step.cxx
+vector
+-
+util/newton_step.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/util/newton_step.hxx
+util/matrix.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/util/matrix.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/newton_step.hxx
+vector
+-
+string
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/recombination.cxx
+vector
+-
+stdint.h
+-
+string
+-
+sstream
+-
+cstdlib
+-
+iostream
+-
+random
+-
+recombination.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/recombination.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/recombination.hxx
+vector
+-
+stdint.h
+-
+string
+-
+random
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/statistics.cxx
+vector
+-
+algorithm
+-
+numeric
+-
+limits
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/stdint.h
+asynchronous_algorithms/individual.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/asynchronous_algorithms/individual.hxx
+util/statistics.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/util/statistics.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/statistics.hxx
+vector
+-
+asynchronous_algorithms/individual.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/asynchronous_algorithms/individual.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/tao_random.cxx
+iostream
+-
+limits
+-
+./util/tao_random.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/./util/tao_random.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/vector_io.cxx
+vector
+-
+iostream
+-
+sstream
+-
+cstring
+-
+string
+-
+cstdlib
+-
+stdexcept
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/stdint.h
+vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/vector_io.hxx
+boost/algorithm/string.hpp
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/vector_io.hxx
+vector
+-
+iostream
+-
+sstream
+-
+cstring
+-
+

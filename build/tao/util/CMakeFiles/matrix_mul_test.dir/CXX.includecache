@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/matrix.cxx
+cmath
+-
+sstream
+-
+string
+-
+iostream
+-
+vector
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/stdint.h
+matrix.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/matrix.hxx
+vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/vector_io.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/matrix.hxx
+vector
+-
+string
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/stdint.h
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/vector_io.hxx
+vector
+-
+iostream
+-
+sstream
+-
+cstring
+-
+

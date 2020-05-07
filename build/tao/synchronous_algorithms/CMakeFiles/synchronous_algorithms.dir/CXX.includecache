@@ -1,0 +1,164 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/gradient.cxx
+vector
+-
+iostream
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/stdint.h
+gradient.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/gradient.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/gradient.hxx
+vector
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/line_search.cxx
+vector
+-
+string
+-
+sstream
+-
+synchronous_algorithms/gradient.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_algorithms/gradient.hxx
+synchronous_algorithms/line_search.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_algorithms/line_search.hxx
+util/arguments.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/arguments.hxx
+util/recombination.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/recombination.hxx
+util/vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/vector_io.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/line_search.hxx
+vector
+-
+string
+-
+iostream
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/parameter_sweep.cxx
+vector
+-
+limits
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/stdint.h
+parameter_sweep.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/parameter_sweep.hxx
+util/vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/vector_io.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/parameter_sweep.hxx
+vector
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_gradient_descent.cxx
+iostream
+-
+vector
+-
+cmath
+-
+synchronous_algorithms/synchronous_gradient_descent.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_algorithms/synchronous_gradient_descent.hxx
+synchronous_algorithms/gradient.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_algorithms/gradient.hxx
+synchronous_algorithms/line_search.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_algorithms/line_search.hxx
+util/vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/vector_io.hxx
+util/arguments.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/arguments.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_gradient_descent.hxx
+vector
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_newton_method.cxx
+vector
+-
+iostream
+-
+cstdio
+-
+cstdlib
+-
+string
+-
+cmath
+-
+stdint.h
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/stdint.h
+synchronous_algorithms/synchronous_newton_method.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_algorithms/synchronous_newton_method.hxx
+synchronous_algorithms/gradient.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_algorithms/gradient.hxx
+util/hessian.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/hessian.hxx
+util/newton_step.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/newton_step.hxx
+synchronous_algorithms/line_search.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_algorithms/line_search.hxx
+util/vector_io.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/vector_io.hxx
+util/arguments.hxx
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/util/arguments.hxx
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/synchronous_algorithms/synchronous_newton_method.hxx
+string
+-
+vector
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/arguments.hxx
+iostream
+-
+vector
+-
+sstream
+-
+cstdlib
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/hessian.hxx
+vector
+-
+string
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/newton_step.hxx
+vector
+-
+string
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/recombination.hxx
+vector
+-
+stdint.h
+-
+string
+-
+random
+-
+
+/mnt/c/Users/Chris Huang/Documents/Research/Spring_19/DiskDensityFit/tao/util/vector_io.hxx
+vector
+-
+iostream
+-
+sstream
+-
+cstring
+-
+

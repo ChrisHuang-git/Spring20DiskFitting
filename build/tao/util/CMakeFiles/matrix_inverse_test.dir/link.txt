@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall -O3 -funroll-loops -msse3 -std=c++11  -rdynamic CMakeFiles/matrix_inverse_test.dir/matrix.cxx.o  -o matrix_inverse_test libtao_util.a 
